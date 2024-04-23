@@ -9,26 +9,21 @@ This is a simple todo app built using React Native. It allows users to create, r
 - **Update**: Edit task details such as title and description.
 - **Delete**: Remove tasks from the list.
 
-## Installation
 
-To run this app locally, follow these steps:
+## Technologies Used
 
-1. Clone this repository to your local machine:
+- React Native
+- JavaScript
+- Node.js
+- Expo (optional, if used for development)
+- AsyncStorage (for local storage of tasks)
 
-# React Native Todo App
+## Contributing
 
-This is a simple todo app built using React Native. It allows users to create, read, update, and delete tasks to manage their daily activities effectively.
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## Features
+## License
 
-- **Create**: Add new tasks with a title and optional description.
-- **Read**: View a list of all tasks with their details.
-- **Update**: Edit task details such as title and description.
-- **Delete**: Remove tasks from the list.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Installation
-
-To run this app locally, follow these steps:
-
-1. Clone this repository to your local machine:
 
