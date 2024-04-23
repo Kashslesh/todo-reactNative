@@ -14,7 +14,7 @@ This is a simple todo app built using React Native. It allows users to create, r
 
 - React Native
 - JavaScript
-- Node.js
+- Api
 - Expo (optional, if used for development)
 - AsyncStorage (for local storage of tasks)
 
