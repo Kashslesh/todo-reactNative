@@ -9,6 +9,16 @@ This is a simple todo app built using React Native. It allows users to create, r
 - **Update**: Edit task details such as title and description.
 - **Delete**: Remove tasks from the list.
 
+## Instalation
+```bash
+git clone
+```
+```bash
+npm install
+```
+```bash
+npm start
+```
 
 ## Technologies Used
 
