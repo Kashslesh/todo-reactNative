@@ -22,8 +22,5 @@ This is a simple todo app built using React Native. It allows users to create, r
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
